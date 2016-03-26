@@ -1,0 +1,10 @@
+---
+title: OOP Session 1 for Juniors
+text: Learn Basic OOP on Java Come and Code
+location: Science Study Hall - University of Jaffna
+link: https://github.com/nifrasismail/studyGroup/issues/4
+date: 2015-12-05
+startTime: '09:00'
+endTime: '12:00'
+group: 'Junior Level'
+---
